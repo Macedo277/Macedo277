@@ -14,4 +14,4 @@ You can click the Preview link to take a look at your changes.
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=no
