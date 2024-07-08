@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating pages in HTML and CSS
 - 🌱 I’m currently learning several things about IT
 - 💞️ I’m looking to collaborate on everything
-- 📫 How to reach me: Searching my username using: Macedo277
+- 📫 How to reach me: Searching my username: Macedo277
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
