@@ -13,8 +13,5 @@ You can click the Preview link to take a look at your changes.
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
